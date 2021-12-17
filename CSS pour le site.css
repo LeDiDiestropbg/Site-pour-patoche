@@ -1,0 +1,9 @@
+.brd {
+    border: 4mm ridge rgba(170, 50, 220, .6);
+    display: contents;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
